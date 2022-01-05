@@ -1,4 +1,4 @@
-#!/datia/data/com.termux/files/usr/bin/env bash
+#!/usr/bin/env bash
 
 # Buat warna
 source utils/colors.sh
