@@ -1,0 +1,5 @@
+Hallo Pengguna Baru Termux!
+
+Saat ini anda sedang membaca script ini dengan command "cat".
+Lanjutkan perjalanan anda!
+

@@ -1,0 +1,13 @@
+Bagus! Anda membaca file ini dengan command "less"!
+
+Command "less" hampir dengan command "cat", Namun
+perbedaan diantata less dan cat adalah, less bisa digunakan
+untuk membaca file dengan text panjang yang bisa dibaca dengan scrolling dibandingkan cat.
+
+SDan selamat datang di script Belajar Termux.
+Script ini masih memerlukan beberapa perubahan & perbaikan agar 
+pengguna bisa mengerti cara kerja termux & melatihnya dengan baik, Dan penulis berharap agar 
+pengguna script ini bisa mengerti & belajar cara kerja bash dan termux.
+
+Tekan Q untuk keluar dari less setelah membaca teks diatas ini!
+
