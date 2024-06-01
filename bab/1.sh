@@ -65,7 +65,7 @@ bab1_3() {
 	echo -e "Kita akan memakai command ${RST}${CYAN}ls${RST} untuk lihat isi direktori.\n\n(Tekan Enter untuk mengeksekusi contoh)"
 	read -p "${RST}${GREEN}~${RST} $ ls"
 	ls
-	echo -e "\nAnda bisa lihat, Beberapa diantaranya memiliki warna,\nYaitu Biru dan putih. Teks biru berarti Folder,\nSedangkan Teks putih merupakan file biasa."
+	echo -e "\nAnda bisa lihat, Beberapa diantaranya memiliki warna,\nYaitu Biru dan putih. Teks biru berarti Folder,\nSedangkan Teks putih merupakan file biasa.\n(Tekan Entee untuk melanjutkan)"
 	read
 
 	echo -e "\nSelain itu, Kita juga bisa melihat isi dari\nsatu sampai lima (atau lebih) nama direktori Yang diminta."
