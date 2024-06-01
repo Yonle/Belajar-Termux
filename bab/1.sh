@@ -14,13 +14,14 @@ bab1() {
 
 	${RST}${BLD}Termux${RST} adalah sebuah ${RST}${BLD}Terminal${RST} emulator yang digunakan
 	untuk menjalankan beberapa program linux seperti
-	nano, apt, bash, curl, dan lain lain.
+	nano, apt, bash, curl, ssh, dan lain lain.
 	
 	${RST}${BLD}Termux${RST} juga dipakai untuk beberapa kebutuhan tertentu,
 	Mulai dari mengoding, Memutar musik, Menjalankan server,
-	Mengedit kode, Chatting, dan sebagainya. Termux juga bisa
-	digunakan untuk menjalankan beberapa program seperti
-	kode clang, python, perl, dan sebagainya.
+	Mengedit kode, Chatting, Remoting, dan sebagainya.
+
+	Termux juga bisa digunakan untuk menjalankan beberapa program
+	Seperti clang, python, perl, nodejs, java, dan sebagainya.
 	
 	EOF
 
